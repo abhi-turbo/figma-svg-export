@@ -1,1 +1,1 @@
-# svg-export
+# figma-svg-export
